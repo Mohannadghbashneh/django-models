@@ -6,7 +6,8 @@
 
 ### Links and Resources
 - [Class Repo](https://github.com/LTUC/amman-python-401d10/tree/main/Class-20)
-- [pull request](https://github.com/Mohannadghbashneh/django-models/pull/1)
+- [pull request1](https://github.com/Mohannadghbashneh/django-models/pull/1)
+- [pull request1](https://github.com/Mohannadghbashneh/django-models/pull/2)
 
 ### Setup
 
