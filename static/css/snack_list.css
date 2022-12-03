@@ -1,18 +1,8 @@
 body {
     background: url(https://images.unsplash.com/photo-1508614999368-9260051292e5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjB8fGNvbG9yJTIwYmFja2dyb3VuZHxlbnwwfHwwfHw%3D&w=1000&q=80) no-repeat center center fixed; 
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
     background-size: cover;
-
-    }
-h1{
-    padding: 20px;
-}
-h2{
-    padding: 20px 50px;
-}
-ul {
-    font-size: larger;
-    padding: 0px 100px;
-    }
+    background-attachment: fixed;
+    color: white;
+    font-family: 'Fira Sans', sans-serif;
+  }
+ 
